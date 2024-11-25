@@ -1,0 +1,108 @@
+2024-11-25 13:09:40.596 | INFO     | logging:callHandlers:1762 - Started server process [3504]
+2024-11-25 13:09:40.597 | INFO     | logging:callHandlers:1762 - Waiting for application startup.
+2024-11-25 13:09:40.599 | INFO     | logging:callHandlers:1762 - Application startup complete.
+2024-11-25 13:09:42.888 | INFO     | logging:callHandlers:1762 - Shutting down
+2024-11-25 13:09:42.997 | INFO     | logging:callHandlers:1762 - Waiting for application shutdown.
+2024-11-25 13:09:42.998 | INFO     | logging:callHandlers:1762 - Application shutdown complete.
+2024-11-25 13:09:42.999 | INFO     | logging:callHandlers:1762 - Finished server process [3504]
+2024-11-25 13:09:51.888 | INFO     | logging:callHandlers:1762 - Started server process [15752]
+2024-11-25 13:09:51.890 | INFO     | logging:callHandlers:1762 - Waiting for application startup.
+2024-11-25 13:09:51.891 | INFO     | logging:callHandlers:1762 - Application startup complete.
+2024-11-25 13:09:53.252 | INFO     | app.core.middleware:dispatch:24 - request_id=611a2db1-cd63-4b44-9c42-7e7eadb02ae3 method=GET path=/ status_code=200 duration=0.99ms
+2024-11-25 13:09:53.252 | INFO     | logging:callHandlers:1762 - 127.0.0.1:9400 - "GET / HTTP/1.1" 200
+2024-11-25 13:09:53.565 | INFO     | app.core.middleware:dispatch:24 - request_id=1692c120-cfa5-45f1-a57f-4fa8332db8aa method=GET path=/favicon.ico status_code=200 duration=0.99ms
+2024-11-25 13:09:53.565 | INFO     | logging:callHandlers:1762 - 127.0.0.1:9400 - "GET /favicon.ico HTTP/1.1" 200
+2024-11-25 13:09:59.165 | INFO     | app.core.middleware:dispatch:24 - request_id=93828bc8-dd4c-421b-bc12-e101c548e9c9 method=GET path=/docs status_code=200 duration=0.00ms
+2024-11-25 13:09:59.166 | INFO     | logging:callHandlers:1762 - 127.0.0.1:9419 - "GET /docs HTTP/1.1" 200
+2024-11-25 13:09:59.517 | INFO     | app.core.middleware:dispatch:24 - request_id=95171e56-ff5f-4c4b-ae64-118a719e08d5 method=GET path=/api/v1/openapi.json status_code=200 duration=6.01ms
+2024-11-25 13:09:59.518 | INFO     | logging:callHandlers:1762 - 127.0.0.1:9419 - "GET /api/v1/openapi.json HTTP/1.1" 200
+2024-11-25 13:10:13.359 | INFO     | app.core.middleware:dispatch:24 - request_id=58129dac-a668-475b-8e04-7284082e3f5e method=POST path=/api/v1/login status_code=200 duration=16.00ms
+2024-11-25 13:10:13.359 | INFO     | logging:callHandlers:1762 - 127.0.0.1:9428 - "POST /api/v1/login HTTP/1.1" 200
+2024-11-25 13:10:41.789 | INFO     | logging:callHandlers:1762 - Shutting down
+2024-11-25 13:10:41.903 | INFO     | logging:callHandlers:1762 - Waiting for application shutdown.
+2024-11-25 13:10:41.905 | INFO     | logging:callHandlers:1762 - Application shutdown complete.
+2024-11-25 13:10:41.905 | INFO     | logging:callHandlers:1762 - Finished server process [15752]
+2024-11-25 13:14:13.237 | INFO     | logging:callHandlers:1762 - Started server process [13392]
+2024-11-25 13:14:13.237 | INFO     | logging:callHandlers:1762 - Waiting for application startup.
+2024-11-25 13:14:13.238 | INFO     | logging:callHandlers:1762 - Application startup complete.
+2024-11-25 13:14:14.764 | INFO     | app.core.middleware:dispatch:24 - request_id=cd445a56-bbc2-4718-897a-648769d5accb method=GET path=/docs status_code=200 duration=1.00ms
+2024-11-25 13:14:14.765 | INFO     | logging:callHandlers:1762 - 127.0.0.1:9689 - "GET /docs HTTP/1.1" 200
+2024-11-25 13:14:14.990 | INFO     | app.core.middleware:dispatch:24 - request_id=d0114637-d8ad-4376-b9ee-fb6146ad1e59 method=GET path=/api/v1/openapi.json status_code=200 duration=7.01ms
+2024-11-25 13:14:14.991 | INFO     | logging:callHandlers:1762 - 127.0.0.1:9689 - "GET /api/v1/openapi.json HTTP/1.1" 200
+2024-11-25 13:14:22.223 | INFO     | app.core.middleware:dispatch:24 - request_id=4b6eef9b-8bd9-4e90-b96d-a0b02f66c172 method=POST path=/api/v1/login status_code=200 duration=14.31ms
+2024-11-25 13:14:22.224 | INFO     | logging:callHandlers:1762 - 127.0.0.1:9696 - "POST /api/v1/login HTTP/1.1" 200
+2024-11-25 13:14:31.335 | INFO     | logging:callHandlers:1762 - Shutting down
+2024-11-25 13:14:31.438 | INFO     | logging:callHandlers:1762 - Waiting for application shutdown.
+2024-11-25 13:14:31.438 | INFO     | logging:callHandlers:1762 - Application shutdown complete.
+2024-11-25 13:14:31.439 | INFO     | logging:callHandlers:1762 - Finished server process [13392]
+2024-11-25 13:15:18.387 | INFO     | logging:callHandlers:1762 - Started server process [15952]
+2024-11-25 13:15:18.388 | INFO     | logging:callHandlers:1762 - Waiting for application startup.
+2024-11-25 13:15:18.389 | INFO     | logging:callHandlers:1762 - Application startup complete.
+2024-11-25 13:15:18.403 | INFO     | app.core.middleware:dispatch:24 - request_id=b308d4e3-2f47-42be-98f5-147bfb573aac method=GET path=/docs status_code=200 duration=0.00ms
+2024-11-25 13:15:18.404 | INFO     | logging:callHandlers:1762 - 127.0.0.1:9725 - "GET /docs HTTP/1.1" 200
+2024-11-25 13:15:18.594 | INFO     | app.core.middleware:dispatch:24 - request_id=7b95f0d4-8f10-4420-aec7-8c29c5f5d5da method=GET path=/api/v1/openapi.json status_code=200 duration=6.02ms
+2024-11-25 13:15:18.595 | INFO     | logging:callHandlers:1762 - 127.0.0.1:9725 - "GET /api/v1/openapi.json HTTP/1.1" 200
+2024-11-25 13:15:20.461 | INFO     | app.core.middleware:dispatch:24 - request_id=bd98cd13-87df-41df-b817-008b0fe2b424 method=GET path=/docs status_code=200 duration=0.00ms
+2024-11-25 13:15:20.462 | INFO     | logging:callHandlers:1762 - 127.0.0.1:9725 - "GET /docs HTTP/1.1" 200
+2024-11-25 13:15:20.558 | INFO     | app.core.middleware:dispatch:24 - request_id=be4e8e16-cbee-44fa-922d-2f081c560432 method=GET path=/api/v1/openapi.json status_code=200 duration=1.00ms
+2024-11-25 13:15:20.558 | INFO     | logging:callHandlers:1762 - 127.0.0.1:9725 - "GET /api/v1/openapi.json HTTP/1.1" 200
+2024-11-25 13:15:25.894 | INFO     | app.core.middleware:dispatch:24 - request_id=eab4128b-ca74-4c5c-b0b9-dbf8b213c49a method=GET path=/api/v1/health status_code=200 duration=0.00ms
+2024-11-25 13:15:25.895 | INFO     | logging:callHandlers:1762 - 127.0.0.1:9724 - "GET /api/v1/health HTTP/1.1" 200
+2024-11-25 13:15:36.219 | INFO     | app.core.middleware:dispatch:24 - request_id=a8c8c320-5a18-485a-b4f7-11b756b21b5f method=POST path=/api/v1/login status_code=200 duration=0.00ms
+2024-11-25 13:15:36.233 | INFO     | logging:callHandlers:1762 - 127.0.0.1:9727 - "POST /api/v1/login HTTP/1.1" 200
+2024-11-25 13:15:48.064 | INFO     | app.core.middleware:dispatch:24 - request_id=8ac6e8d2-58e2-4e8f-a237-bc7130bda36f method=POST path=/api/v1/login status_code=200 duration=8.00ms
+2024-11-25 13:15:48.065 | INFO     | logging:callHandlers:1762 - 127.0.0.1:9744 - "POST /api/v1/login HTTP/1.1" 200
+2024-11-25 13:15:56.228 | INFO     | app.core.middleware:dispatch:24 - request_id=910590fa-87c8-4af7-aa1b-88a76db956f0 method=POST path=/api/v1/login status_code=200 duration=2.34ms
+2024-11-25 13:15:56.233 | INFO     | logging:callHandlers:1762 - 127.0.0.1:9747 - "POST /api/v1/login HTTP/1.1" 200
+2024-11-25 13:16:42.382 | INFO     | logging:callHandlers:1762 - Shutting down
+2024-11-25 13:16:42.497 | INFO     | logging:callHandlers:1762 - Waiting for application shutdown.
+2024-11-25 13:16:42.498 | INFO     | logging:callHandlers:1762 - Application shutdown complete.
+2024-11-25 13:16:42.499 | INFO     | logging:callHandlers:1762 - Finished server process [15952]
+2024-11-25 13:25:40.116 | INFO     | logging:callHandlers:1762 - Started server process [3916]
+2024-11-25 13:25:40.116 | INFO     | logging:callHandlers:1762 - Waiting for application startup.
+2024-11-25 13:25:40.117 | INFO     | logging:callHandlers:1762 - Application startup complete.
+2024-11-25 13:25:40.960 | INFO     | app.core.middleware:dispatch:24 - request_id=f8263e2e-899f-410d-a4fe-77bd024f1a1f method=GET path=/docs status_code=200 duration=0.99ms
+2024-11-25 13:25:40.961 | INFO     | logging:callHandlers:1762 - 127.0.0.1:10192 - "GET /docs HTTP/1.1" 200
+2024-11-25 13:25:41.184 | INFO     | app.core.middleware:dispatch:24 - request_id=307757d6-425d-4a65-83c3-a013499c7ec6 method=GET path=/api/v1/openapi.json status_code=200 duration=7.00ms
+2024-11-25 13:25:41.185 | INFO     | logging:callHandlers:1762 - 127.0.0.1:10192 - "GET /api/v1/openapi.json HTTP/1.1" 200
+2024-11-25 13:25:47.536 | INFO     | app.core.middleware:dispatch:24 - request_id=42a26216-f33a-4ce7-9a25-586afce955ea method=POST path=/api/v1/login status_code=200 duration=12.34ms
+2024-11-25 13:25:47.537 | INFO     | logging:callHandlers:1762 - 127.0.0.1:10213 - "POST /api/v1/login HTTP/1.1" 200
+2024-11-25 13:25:56.284 | INFO     | app.core.middleware:dispatch:24 - request_id=3d1ea558-0f59-4d22-b07d-56669f5f5e05 method=POST path=/api/v1/login status_code=200 duration=2.47ms
+2024-11-25 13:25:56.284 | INFO     | logging:callHandlers:1762 - 127.0.0.1:10223 - "POST /api/v1/login HTTP/1.1" 200
+2024-11-25 13:26:05.859 | INFO     | app.core.middleware:dispatch:24 - request_id=fbd6afab-f322-4b40-924e-9e675ce6631d method=POST path=/api/v1/login status_code=200 duration=250.37ms
+2024-11-25 13:26:05.860 | INFO     | logging:callHandlers:1762 - 127.0.0.1:10224 - "POST /api/v1/login HTTP/1.1" 200
+2024-11-25 13:26:35.927 | INFO     | app.core.middleware:dispatch:24 - request_id=1f089d07-c1f9-4e14-8015-e32fea9b99c4 method=POST path=/api/v1/users/ status_code=200 duration=13.60ms
+2024-11-25 13:26:35.928 | INFO     | logging:callHandlers:1762 - 127.0.0.1:10227 - "POST /api/v1/users/ HTTP/1.1" 200
+2024-11-25 13:26:43.510 | INFO     | app.core.middleware:dispatch:24 - request_id=f2d92c2a-a372-4e91-a8bf-f70667e6329e method=POST path=/api/v1/users/ status_code=200 duration=229.95ms
+2024-11-25 13:26:43.510 | INFO     | logging:callHandlers:1762 - 127.0.0.1:10232 - "POST /api/v1/users/ HTTP/1.1" 200
+2024-11-25 13:26:49.450 | INFO     | app.core.middleware:dispatch:24 - request_id=4fa85f30-d2f8-412b-8206-7aeb45821278 method=GET path=/api/v1/users/me status_code=200 duration=1.82ms
+2024-11-25 13:26:49.450 | INFO     | logging:callHandlers:1762 - 127.0.0.1:10235 - "GET /api/v1/users/me HTTP/1.1" 200
+2024-11-25 13:27:08.893 | INFO     | app.core.middleware:dispatch:24 - request_id=7ee1d810-1601-450f-861d-0c88594a5b10 method=POST path=/api/v1/login status_code=200 duration=220.64ms
+2024-11-25 13:27:08.894 | INFO     | logging:callHandlers:1762 - 127.0.0.1:10236 - "POST /api/v1/login HTTP/1.1" 200
+2024-11-25 13:27:10.571 | INFO     | app.core.middleware:dispatch:24 - request_id=a0fea92c-b617-469d-b358-d4126a1e0de3 method=GET path=/api/v1/users/me status_code=200 duration=1.99ms
+2024-11-25 13:27:10.571 | INFO     | logging:callHandlers:1762 - 127.0.0.1:10236 - "GET /api/v1/users/me HTTP/1.1" 200
+2024-11-25 13:27:16.385 | INFO     | app.core.middleware:dispatch:24 - request_id=715ef0c5-61bc-4b04-a7f8-b98a15f64611 method=GET path=/api/v1/admin/system-info status_code=200 duration=1.01ms
+2024-11-25 13:27:16.386 | INFO     | logging:callHandlers:1762 - 127.0.0.1:10237 - "GET /api/v1/admin/system-info HTTP/1.1" 200
+2024-11-25 13:27:20.949 | INFO     | app.core.middleware:dispatch:24 - request_id=6034861c-b5ff-4223-bfc6-9c6386edc825 method=GET path=/api/v1/admin/system-info status_code=200 duration=1.96ms
+2024-11-25 13:27:20.949 | INFO     | logging:callHandlers:1762 - 127.0.0.1:10237 - "GET /api/v1/admin/system-info HTTP/1.1" 200
+2024-11-25 13:27:25.300 | INFO     | app.core.middleware:dispatch:24 - request_id=c6ba4984-a64b-4ed6-8f37-e778e150bc68 method=GET path=/ status_code=200 duration=0.00ms
+2024-11-25 13:27:25.300 | INFO     | logging:callHandlers:1762 - 127.0.0.1:10237 - "GET / HTTP/1.1" 200
+2024-11-25 13:29:20.786 | INFO     | logging:callHandlers:1762 - Shutting down
+2024-11-25 13:29:20.888 | INFO     | logging:callHandlers:1762 - Waiting for application shutdown.
+2024-11-25 13:29:20.890 | INFO     | logging:callHandlers:1762 - Application shutdown complete.
+2024-11-25 13:29:20.890 | INFO     | logging:callHandlers:1762 - Finished server process [3916]
+2024-11-25 13:29:32.911 | INFO     | logging:callHandlers:1762 - Started server process [16396]
+2024-11-25 13:29:32.912 | INFO     | logging:callHandlers:1762 - Waiting for application startup.
+2024-11-25 13:29:32.913 | INFO     | logging:callHandlers:1762 - Application startup complete.
+2024-11-25 13:29:36.209 | INFO     | app.core.middleware:dispatch:24 - request_id=379824d5-3068-467d-8783-f258268d17a9 method=GET path=/api/v1/admin/system-info status_code=200 duration=3.26ms
+2024-11-25 13:29:36.210 | INFO     | logging:callHandlers:1762 - 192.168.0.104:8888 - "GET /api/v1/admin/system-info HTTP/1.1" 200
+2024-11-25 13:29:43.512 | INFO     | app.core.middleware:dispatch:24 - request_id=f4f0c5cd-a430-43c8-aef2-b8e61b5e9b87 method=GET path=/api/v1/admin/system-info status_code=200 duration=1.98ms
+2024-11-25 13:29:43.512 | INFO     | logging:callHandlers:1762 - 127.0.0.1:10320 - "GET /api/v1/admin/system-info HTTP/1.1" 200
+2024-11-25 13:29:48.441 | INFO     | app.core.middleware:dispatch:24 - request_id=f9f94fc8-1db3-48d2-829b-93803f266dd2 method=POST path=/api/v1/login status_code=200 duration=239.55ms
+2024-11-25 13:29:48.441 | INFO     | logging:callHandlers:1762 - 127.0.0.1:10320 - "POST /api/v1/login HTTP/1.1" 200
+2024-11-25 13:30:02.924 | INFO     | app.core.middleware:dispatch:24 - request_id=6aae42bf-faef-4d6c-8f30-4cbb690edb88 method=GET path=/api/v1/admin/system-info status_code=200 duration=0.00ms
+2024-11-25 13:30:02.924 | INFO     | logging:callHandlers:1762 - 192.168.0.104:8940 - "GET /api/v1/admin/system-info HTTP/1.1" 200
+2024-11-25 13:30:10.707 | INFO     | logging:callHandlers:1762 - Shutting down
+2024-11-25 13:30:10.807 | INFO     | logging:callHandlers:1762 - Waiting for application shutdown.
+2024-11-25 13:30:10.807 | INFO     | logging:callHandlers:1762 - Application shutdown complete.
+2024-11-25 13:30:10.807 | INFO     | logging:callHandlers:1762 - Finished server process [16396]
